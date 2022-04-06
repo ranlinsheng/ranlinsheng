@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey! Nice to see you. 👋
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+I'm Linsheng. Studying in Universiti Malaya
+
+https://img.shields.io/badge/python-3.9-orange
 
 <!--
 **ranlinsheng/ranlinsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranlinsheng&show_icons=true&theme=radical)
+
