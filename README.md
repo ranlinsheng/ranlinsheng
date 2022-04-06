@@ -43,14 +43,14 @@ hi, i'm [Linsheng](https://github.com/ranlinsheng),currently pursuing my master'
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
 ```text
-JavaScript   8 hrs 23 mins   █████████████████████▒░░░   85.39 %
-TypeScript   1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+python       8 hrs 23 mins   █████████████████████▒░░░   85.39 %
+R            1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
 Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
-
 <!--END_SECTION:waka-->
+
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranlinsheng&show_icons=true&theme=gotham" alt="ranlinsheng" />
 
