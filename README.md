@@ -8,7 +8,7 @@
 
   <img align="left" alt="Ran Linsheng | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/linsheng-ran-b64bb1142/">
+<a href="https://www.linkedin.com/">
   <img align="left" alt="ranlinsheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
